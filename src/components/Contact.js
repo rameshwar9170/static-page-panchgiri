@@ -16,7 +16,7 @@ const Contact = () => {
       <p>WALIVADE, SAHYADRI CHEM, WALIVADE, NEAR HOTEL JAIBHAWANI, CHINCHWAD ROAD, WALIVADE, MAHARASHTRA, KOLHAPUR, Pin 416119</p>
       <p>WALIVADE, MAHARASHTRA 416119</p>
       <p>Phone: 9371102470</p>
-      <p>Email: contact@panchgiriayurveda.com</p>
+      <p>Email: panchgiriayurveda@gmail.com</p>
 
       <form className="newsletter" onSubmit={handleNewsletterSubmit}>
         <label htmlFor="email" style={{ fontWeight: '700' }}>
